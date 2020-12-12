@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="24ffa23e-0e02-4048-87ec-2aa8dcee3972" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectId" id="1kWe22k4hDhlmc5Wjhy66UzYrbC" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Odoo 13" type="PythonConfigurationType" factoryName="Python">
+      <module name="custom_crm" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="$PROJECT_DIR$/venv/bin/python" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../.." />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../../odoo-bin" />
+      <option name="PARAMETERS" value="-c odoo.conf -d datatest --dev=all" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="24ffa23e-0e02-4048-87ec-2aa8dcee3972" name="Default Changelist" comment="" />
+      <created>1605820570661</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1605820570661</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="169" y="54" width="1084" height="710" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1605821215125">
+      <screen x="46" y="27" width="1320" height="741" />
+    </state>
+    <state x="169" y="54" width="1084" height="710" key="#com.intellij.execution.impl.EditConfigurationsDialog/46.27.1320.741@46.27.1320.741" timestamp="1605821215125" />
+    <state width="1291" height="287" key="GridCell.Tab.0.bottom" timestamp="1606183195117">
+      <screen x="46" y="27" width="1314" height="585" />
+    </state>
+    <state width="1291" height="287" key="GridCell.Tab.0.bottom/46.27.1314.585@46.27.1314.585" timestamp="1606183195117" />
+    <state width="1295" height="209" key="GridCell.Tab.0.bottom/46.27.1318.589@46.27.1318.589" timestamp="1606011110325" />
+    <state width="1157" height="138" key="GridCell.Tab.0.bottom/46.27.1320.741@46.27.1320.741" timestamp="1605830629178" />
+    <state width="1291" height="287" key="GridCell.Tab.0.center" timestamp="1606183195110">
+      <screen x="46" y="27" width="1314" height="585" />
+    </state>
+    <state width="1291" height="287" key="GridCell.Tab.0.center/46.27.1314.585@46.27.1314.585" timestamp="1606183195110" />
+    <state width="1295" height="209" key="GridCell.Tab.0.center/46.27.1318.589@46.27.1318.589" timestamp="1606011110324" />
+    <state width="1157" height="138" key="GridCell.Tab.0.center/46.27.1320.741@46.27.1320.741" timestamp="1605830629175" />
+    <state width="1291" height="287" key="GridCell.Tab.0.left" timestamp="1606183195108">
+      <screen x="46" y="27" width="1314" height="585" />
+    </state>
+    <state width="1291" height="287" key="GridCell.Tab.0.left/46.27.1314.585@46.27.1314.585" timestamp="1606183195108" />
+    <state width="1295" height="209" key="GridCell.Tab.0.left/46.27.1318.589@46.27.1318.589" timestamp="1606011110324" />
+    <state width="1157" height="138" key="GridCell.Tab.0.left/46.27.1320.741@46.27.1320.741" timestamp="1605830629174" />
+    <state width="1291" height="287" key="GridCell.Tab.0.right" timestamp="1606183195113">
+      <screen x="46" y="27" width="1314" height="585" />
+    </state>
+    <state width="1291" height="287" key="GridCell.Tab.0.right/46.27.1314.585@46.27.1314.585" timestamp="1606183195113" />
+    <state width="1295" height="209" key="GridCell.Tab.0.right/46.27.1318.589@46.27.1318.589" timestamp="1606011110325" />
+    <state width="1157" height="138" key="GridCell.Tab.0.right/46.27.1320.741@46.27.1320.741" timestamp="1605830629176" />
+  </component>
+</project>
